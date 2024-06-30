@@ -1,0 +1,20 @@
+{
+  "name": "enquierer-path-prompt",
+  "version": "1.0.0",
+  "description": "path prompt for enquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r.mertyn",
+  "license": "ISC",
+  "engines": {
+    "node": "^18.7 || ^20"
+  },
+  "dependencies": {
+    "enquirer": "^2.4.1"
+  },
+  "devDependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
