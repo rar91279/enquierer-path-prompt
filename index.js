@@ -7,6 +7,5 @@ enquirer.register('path', PathPrompt)
 enquirer.prompt({
 	type: 'path',
 	name: 'workingDir',
-	message: 'Select working dir',
-	initialDirectory: 'Z:/'
+	message: 'Select working dir'
 }).then(console.log)
